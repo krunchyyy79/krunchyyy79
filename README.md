@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I’m Kofi 👋
 
-<!--
-**krunchyyy79/krunchyyy79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Engineering graduate interested in Cloud Computing, Infrastructure, Networking, and Cybersecurity.
 
-Here are some ideas to get you started:
+I’m currently building my cloud computing fundamentals and learning more about AWS, Linux, networking, and infrastructure technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m using GitHub to document my learning journey, projects, and hands-on practice as I work toward a career in cloud and infrastructure engineering.
+
+Currently Learning
+
+* ☁️ Cloud Computing
+* AWS
+* 🐧 Linux
+* 🌐 Networking
+* 🔐 Cybersecurity Fundamentals
+* 🐍 Python Fundamentals
+
+Goal
+
+To build strong practical skills in cloud and infrastructure engineering and eventually work on reliable, secure, and scalable technology systems.
